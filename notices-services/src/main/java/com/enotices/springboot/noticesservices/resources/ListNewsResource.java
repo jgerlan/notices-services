@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.enotices.springboot.noticesservices.models.ListNews;
 import com.enotices.springboot.noticesservices.repository.ListNewsRepository;
 
+// Classe que adiciona noticias e mostra fora de uma lista de noticias
+
 @RestController
 @RequestMapping(value="/api")
 public class ListNewsResource {

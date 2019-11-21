@@ -1,7 +1,6 @@
 package com.enotices.springboot.noticesservices.models;
 
 import java.io.Serializable;
-import java.util.ArrayList;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
