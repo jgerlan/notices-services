@@ -22,8 +22,8 @@
 	</properties>
 
 	<scm>
-        <connection>scm:git:ssh://git@github.com/jgerlan/notices-services.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/jgerlan/notices-services.git</developerConnection>
+        <connection>scm:git:git@github.com:jgerlan/notices-services.git</connection>
+        <developerConnection>scm:git:git@github.com:jgerlan/notices-services.git</developerConnection>
         <url>https://github.com/jgerlan/notices-services.git</url>
         <tag>0.0.1</tag>
     </scm>
